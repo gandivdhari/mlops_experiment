@@ -44,3 +44,4 @@ Once the application is running, you can:
 ## Contributing
 
 Feel free to submit issues or pull requests if you have suggestions or improvements for the application.
+
